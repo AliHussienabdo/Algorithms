@@ -83,6 +83,6 @@ if we reach the end) until finding either the search key or an empty table entry
 
 ![View](../imgs/hash-linear-probing.png)
 
-![View](../imgs/hash-linear-probing-clustring.png)
+![View](../imgs/hash-linear-probing-clustering.png)
 
 

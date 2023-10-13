@@ -5,8 +5,8 @@
 - solve a lot of leetcode problems on each concept.
 - add a prief explanation for each concept.
 
->  References Book.
-> - `Algorithms, 4th Edition by Robert Sedgewick`
+##  References Book.
+- `Algorithms, 4th Edition by Robert Sedgewick`
 
 
 ### solutions and implementions 

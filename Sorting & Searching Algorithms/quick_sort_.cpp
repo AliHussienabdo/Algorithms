@@ -2,7 +2,7 @@
 using namespace std;
 
 // function to print the array
-void printArray(int array[], int size) ;
+void printArray(int array[], int size);
 
 void TreeWayPartition(int arr[], int low,int high){
 	if(low >= high) return;
